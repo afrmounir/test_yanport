@@ -20,8 +20,4 @@ node: >=6.0.0
 
 
 ##  Tests
-Pour exécuter les tests unitaires, utilisez la commande suivante :
-
-```sh
-npm test
-```
+Pour exécuter les tests unitaires, utilisez la commande suivante : `npm test`
